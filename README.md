@@ -30,6 +30,20 @@ The project demonstrates how digital technologies can support sustainability whi
 - Identify potential benefits, risks and trade-offs
 - Download assessment results
 
+  ## 📸 Application Preview
+
+### German City Explorer
+
+Explore German Smart City case studies and examine their technologies, sustainability opportunities, risks and recommended indicators.
+
+![German City Explorer](city%20explorer.png)
+
+### Project Sustainability Evaluator
+
+Evaluate a proposed Smart City project across environmental, social, economic and governance dimensions.
+
+![Project Sustainability Evaluator](project%20evaluator.png)
+
 ## 🛠️ Technologies Used
 
 - **R**
